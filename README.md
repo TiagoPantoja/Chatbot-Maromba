@@ -1,4 +1,4 @@
-# Chatbot Maromba - README
+# Chatbot Maromba
 
 Este é o repositório do Chatbot Maromba, um assistente virtual para fornecer informações sobre a Academia YouFit. O chatbot é desenvolvido em Python e utiliza a biblioteca `fuzzywuzzy` para processar perguntas dos usuários de forma mais flexível.
 
